@@ -1,12 +1,12 @@
 {
-  "name": "FE-skeleton",
+  "name": "Tajem",
   "version": "1.0.0",
-  "description": "FrontEnd Skeleton",
+  "description": "Portfolio project",
   "author": "Evgeny Plotnikov",
   "license": "SPDX(MIT)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/evgenx/fe-skeleton.git"
+    "url": "git://github.com/evgenx/tajem.git"
   },
   "devDependencies": {
     "browser-sync": "^2.24.5",
